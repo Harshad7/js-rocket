@@ -19,10 +19,11 @@ var car = {
 
         if(isOn == true){
             this.isTurnedOn = true;
+        }
         else{
             this.isTurnedOn = false;
         }
-        }
+        
     }
 
 };
