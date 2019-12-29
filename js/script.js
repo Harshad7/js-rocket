@@ -12,7 +12,7 @@ var car = {
     ],
     turnOn : function(){
         this.isTurnedOn = true;
-    }
+    },
 
     switchCar : function(isOn){
         console.log('You chose to turn the car ' + isOn)
